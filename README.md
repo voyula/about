@@ -3,7 +3,7 @@
 [![Build Status][ico-travis]][link-travis]
 [![License][ico-license]][link-license]
 
-Simple about with Next.js
+Simple about with Next.js. SSR over React.js
 
 ## ⚡ Installation
 
