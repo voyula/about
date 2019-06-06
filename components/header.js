@@ -6,7 +6,7 @@ export default () => (
         margin: 0;
         font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir,
           Helvetica, sans-serif;
-		text-align: center;
+        text-align: center;
       }
     `}</style>
   </header>
