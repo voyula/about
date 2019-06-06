@@ -1,4 +1,4 @@
-export default () => (
+export default () =>
   <header>
     <h1>Jesus</h1>
     <style jsx>{`
@@ -10,4 +10,3 @@ export default () => (
       }
     `}</style>
   </header>
-)

@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Header from '../components/header'
 
-export default () => (
+export default () =>
   <main>
     <Header />
     <p>Email: jesus@example.com</p>
@@ -11,4 +11,3 @@ export default () => (
       </Link>
     </section>
   </main>
-)
