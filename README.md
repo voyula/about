@@ -3,7 +3,7 @@
 [![Build Status][ico-travis]][link-travis]
 [![License][ico-license]][link-license]
 
-Simple about page with Next.js
+Simple about with Next.js
 
 ## ⚡ Installation
 
